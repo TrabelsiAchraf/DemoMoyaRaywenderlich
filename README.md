@@ -1,7 +1,7 @@
 # Demo Moya Raywenderlich
 Building a simple demo application using Moya library with swift 4 and xcode 9.3+.
 
-![Build Status](https://travis-ci.org/OussamaRomdhane/easy-converter.svg?branch=master)
+![](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
 
 ### Requirements
